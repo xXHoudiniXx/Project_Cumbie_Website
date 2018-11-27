@@ -1,6 +1,6 @@
 # Cumbies Website
 
-A centrilized location that offers the continuation of project managment stackholders. 
+A centralized  location that offers the continuation of project managment stackholders. 
 ![](header.png)
 
 ## Project Information 
@@ -13,9 +13,8 @@ Value Statement:
 
 ```sh
 Each iteration of students, under the leadership of Dr Cumbie, promotes new
-ways seeking out and rebuilding static objects. A place to present or locate
-this loop, allows all stakeholders a centrilized place to collaborate on different =
-levels. 
+ways of seeking out static objectsand rebuilding its foundation. A place to present or locate
+this loop, allows all stakeholders a centralized  place to collaborate, get information, or request services.
 ```
 
 ## Project Type
