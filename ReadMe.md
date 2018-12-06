@@ -20,6 +20,11 @@ Client: Dr. Barry Cumbie
 * House all project files accessible from the same system repository.
 > “Make your project matter by making it repeatable"
 
+## Project Charter 
+
+* Please see the PRODOC folder for class documents
+
+
 ## Contributing with git
 
 *Fork it (<https://github.com/xXHoudiniXx/cumbie-website.git>)
@@ -68,8 +73,17 @@ be accessible in the startbootstrap folder.
 ## Version Changes
 
 ```sh
-While the objective is up-to-date with the version of this project, please mind the CHANGELOG.md
+While the objective is up-to-date with the version of this project(Version 1.0), please mind the CHANGELOG.md
 file in the root directory. Please utilize this and push it to your forked branch.
+```
+
+## Recommendations
+
+```sh
+I would recommend adding each project to a database. For instance, using mysql or mongodb. This will allow each document to be added to the projects URL.
+You can use mySQL with xampp. Download Xampp and install it to your C: drive. From the Xampp folder, find the dashboard GUI and run it. Then start mySQL. Make sure 
+whatever development enviorment you are working from is connected to the mySQL. Change the server information from xampp to match your host information. localhost will not working
+or 127.0.0.1:8080 is the default location of mysql and needs to be changed to match. Also, please follow up all readme files and adhear to the license protocol. 
 ```
 
 
